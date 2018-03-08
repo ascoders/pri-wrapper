@@ -1,6 +1,6 @@
 {
   "name": "pri-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "types": "src/index.ts",
   "main": "built/index.js",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ascoders/pri-wrapper#readme",
   "dependencies": {
-    "pri": "^0.2.19",
-    "pri-plugins-manager": "^1.0.1"
+    "pri": "^0.2.20",
+    "pri-plugins-manager": "^1.0.2"
   }
 }
