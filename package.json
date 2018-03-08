@@ -1,0 +1,27 @@
+{
+  "name": "pri-wrapper",
+  "version": "1.0.0",
+  "description": "",
+  "types": "src/index.ts",
+  "main": "built/index.js",
+  "bin": {
+    "pri-wrapper": "built/bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ascoders/pri-wrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ascoders/pri-wrapper/issues"
+  },
+  "homepage": "https://github.com/ascoders/pri-wrapper#readme",
+  "dependencies": {
+    "pri": "^0.2.19",
+    "pri-plugins-manager": "^1.0.1"
+  }
+}
